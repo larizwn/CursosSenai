@@ -1,0 +1,17 @@
+.card-container {
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 250px;
+    height: 250px;
+    background-color: rgb(58, 78, 122);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+   
+}
+#imagem {
+    height: 100px;
+    width: 240px ;
+    position: relative;
+  
+}
