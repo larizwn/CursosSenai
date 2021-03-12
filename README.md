@@ -2,7 +2,7 @@
 Esse projeto tem como objetivo apresentar 3 cursos disponíveis na escola Senai Suiço-Brasileira "Paulo Ernesto Tolle". 
 * Mecânica 
 * Gestão Financeira 
-* Logística Suprimentos
+* Logística de Suprimentos
 
 Para desenvolver essa aplicação foi usado o software Node.js.
 
